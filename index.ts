@@ -29,7 +29,7 @@ const unAlbum = new Album("Album Mei",[]);// se puede agregar el album a traves 
 //};  siempre cumpla con las especificaciones de la class Album
 //tienen la misma forma pero son obj, no son instancias de algo y es igual de valido
 
-    const unaBanda = new Banda(["Mei"], [unAlbum,unAlbum]);
+    const unaBanda = new Banda(["Vino otra persona y hizo otro cambio"], [unAlbum,unAlbum]);
    // console.log(unaBanda.members);
     console.log(unaBanda.albums);
 
